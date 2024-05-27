@@ -1,6 +1,6 @@
 const siteMetadata = {
   title: "Nguyen's Blog | Nguyen coding journey",
-  author: 'Duc Huy',
+  author: 'Truong Nguyen',
   headerTitle: 'My Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'luongduchuy11b1@gmail.com',
+  email: 'hanguyen20501@gmail.com',
   github: 'https://github.com/nguyen498',
   twitter: '',
   facebook: 'http://facebook.com/nguyen.20501',

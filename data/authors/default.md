@@ -1,9 +1,9 @@
 ---
-name: Duc Huy
+name: Truong Nguyen
 avatar: /static/images/me.jpg
 occupation: Web Developer | Software Engineer
 company: Open University
-email: luongduchuy11b1@gmail.com
+email: hanguyen20501@gmail.com
 twitter: https://twitter.com/Twitter
 linkedin: https://www.linkedin.com/in/ducchuy/
 github: https://github.com/onggiabayluon/
@@ -13,10 +13,10 @@ github: https://github.com/onggiabayluon/
 <div className="flex items-center space-x-2">
     <h1 className="!mb-0">Hi</h1>
     <img width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
-    <h1 className="!mb-0">I'm Luong Duc Huy</h1>
+    <h1 className="!mb-0">I'm ha Truong Nguyen</h1>
 </div>
 
-<p className="text-lg">I love programming, I do stuff related to <b className="my-title-theme">Web development</b>, I work mainly with <b className="my-title-theme">React/Node</b> and Pure JavaScript.</p>
+<p className="text-lg">I love programming, I do stuff related to <b className="my-title-theme">Web development</b>, I work mainly with <b className="my-title-theme">PHP/Laravel</b> and ReactJS.</p>
 
 ### Brief Time of my carrer
 

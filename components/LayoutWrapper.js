@@ -56,7 +56,7 @@ const LayoutWrapper = ({ children }) => {
                   height={45}
                   className="aspect-square rounded-full object-cover"
                   src="/static/images/me_cartoon.png"
-                  alt="DucHuy's Profile"
+                  alt="Nguyen's Profile"
                 />
               </div>
             </Link>
