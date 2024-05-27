@@ -198,7 +198,7 @@ function LeftDescription() {
               whileHover={{ scale: 1.2, originX: 0 }}
               transition={{ style: 'spring', stiffness: 300 }}
             >
-              <CustomLink hasAnimation={false} href="/static/CV_DucHuy_Luong_Fullstack_en_v1.pdf">
+              <CustomLink hasAnimation={false} href="">
                 💼 <span className="hover:underline">My resume</span>
               </CustomLink>
             </motion.li>
