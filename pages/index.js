@@ -51,15 +51,15 @@ function RightIntroCard() {
                   width="340"
                   height="270"
                   // src="/static/images/me.jpg"
-                  src="/static/images/me_cartoon.png"
+                  src="/static/images/me_cartoon.jpeg"
                   // src="https://weandthecolor.com/wp-content/uploads/2012/03/Alternate-Ending-Illustration-by-Matheus-Lopes-3454646.jpg"
-                  alt="DucHuy's Profile Picture"
+                  alt="Nguyen's Profile Picture"
                   priority
                 />
               </div>
               <div className="my-card-theme my-auto space-y-3  p-7 pb-10">
-                <h1 className="my-title-theme text-2xl font-bold">Luong Duc Huy</h1>
-                <h2 className="my-p-theme text-sm font-semibold">Learner | Builder</h2>
+                <h1 className="my-title-theme text-2xl font-bold">Ha Truong Nguyen</h1>
+                <h2 className="my-p-theme text-sm font-semibold">PHP/Javascript dev</h2>
                 <ul className="flex flex-col space-y-4 pt-4 text-sm">
                   <li className="flex items-center space-x-2">
                     <span>
@@ -80,7 +80,7 @@ function RightIntroCard() {
                       <EnvelopeIcon className="my-icon-theme" />
                     </span>
                     <span className=" dark:text-discord-darkTheme-light/90">
-                      luongduchuy11b1@gmail.com
+                      hanguyen20501@gmail.com
                     </span>
                   </li>
                   <li className="flex items-center space-x-2">
@@ -91,18 +91,18 @@ function RightIntroCard() {
                       <CustomLink
                         hasAnimation={false}
                         className="hover:underline"
-                        href="https://github.com/onggiabayluon"
+                        href="https://github.com/nguyen498"
                       >
                         Github
                       </CustomLink>
-                      {', '}
+                      {/* {', '}
                       <CustomLink
                         hasAnimation={false}
                         className="hover:underline"
                         href="https://www.linkedin.com/in/ducchuy/"
                       >
                         LinkedIn
-                      </CustomLink>
+                      </CustomLink> */}
                     </span>
                   </li>
                 </ul>
@@ -138,7 +138,7 @@ function LeftDescription() {
       <div className="xl:pr-28">
         {/* Left Sessions */}
         <h1 className="my-title-theme mb-12 text-3xl font-extrabold leading-9 tracking-tight sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-          Howdy, fellow!
+          Hello!
           <span className="ml-5">
             <Image
               className="wave h-auto w-auto"
@@ -153,16 +153,16 @@ function LeftDescription() {
         <div className="text-lg">
           <div className="my-title-theme mb-4 font-medium leading-7">
             <p>
-              I'm <b>Duc Huy Luong</b> - an open-minded <b>Software Engineer</b> in VietNam
+              I'm <b>Nguyen ha Truong</b> - an open-minded <b>Software Engineer</b> in VietNam
             </p>
             <TypewriterComponent
               options={{
                 strings: [
                   'I love web development',
-                  "I'm alias Huy at work",
+                  "I'm alias Nguyen at work",
                   'I live in Ho Chi Minh City, VietNam',
-                  "I'm a dog person 🌭🐕",
-                  'I love reading comics 📚',
+                  // "I'm a dog person 🌭🐕",
+                  'I love traveling 🏖',
                 ],
                 autoStart: true,
                 loop: true,
@@ -171,9 +171,9 @@ function LeftDescription() {
             />
           </div>
           <p className="text-md my-p-theme prose">
-            I started my coding journey in 2019 with C++/Python/Javascript in college.
+            I started my coding journey in 2019 with C++/Python/Javascript/PHP in college.
             <br />
-            I'm in love with the JS ecosystem, web dev, and eCommerce.
+            I'm in love with the PHP and JS ecosystem, web dev.
             <br />
             I'm writing this blog to note down and share what I've learned as a SE.
           </p>

@@ -1,22 +1,22 @@
 const siteMetadata = {
-  title: "Huy's Blog | Huy coding journey",
+  title: "Nguyen's Blog | Nguyen coding journey",
   author: 'Duc Huy',
   headerTitle: 'My Blog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'dark', // system, dark or light
-  siteUrl: 'https://portfoliok123.vercel.app',
-  siteRepo: 'https://github.com/onggiabayluon/Portfolio',
+  siteUrl: 'https://portfolio-htn.vercel.app/',
+  siteRepo: 'https://github.com/nguyen498/portfolio',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'luongduchuy11b1@gmail.com',
-  github: 'https://github.com/onggiabayluon',
-  twitter: 'https://twitter.com/Twitter',
-  facebook: 'http://facebook.com/ducchuy123',
-  youtube: 'https://www.youtube.com/@ducchuy2467',
-  linkedin: 'https://www.linkedin.com/in/ducchuy/',
-  locale: 'en-US',
+  github: 'https://github.com/nguyen498',
+  twitter: '',
+  facebook: 'http://facebook.com/nguyen.20501',
+  youtube: '',
+  linkedin: '',
+  locale: 'vi-VN',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
