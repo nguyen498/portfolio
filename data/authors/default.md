@@ -1,12 +1,12 @@
 ---
 name: Truong Nguyen
-avatar: /static/images/me.jpg
+avatar: /static/images/me_cartoon.jpeg
 occupation: Web Developer | Software Engineer
 company: Open University
 email: hanguyen20501@gmail.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com/in/ducchuy/
-github: https://github.com/onggiabayluon/
+twitter: ''
+linkedin: ''
+github: https://github.com/nguyen498/
 ---
 
 <section className="sm:px-0 px-4">
