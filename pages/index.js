@@ -253,6 +253,7 @@ function Posts({ posts }) {
       {!posts.length && 'No posts found.'}
       {posts.slice(0, MAX_DISPLAY).map((frontMatter) => {
         const { slug, date, title, summary, tags } = frontMatter
+        console.log(tags)
         return (
           <CustomTransition
             MotionElement={motion.li}
